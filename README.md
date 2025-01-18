@@ -63,4 +63,4 @@ blktest --name "Test Name" --filename /dev/sdX --output result.png
 
 ## Лицензия
 
-MIT License. См. файл LICENSE[LICENSE] для подробностей.
+MIT License. См. файл [LICENSE](LICENSE) для подробностей.
